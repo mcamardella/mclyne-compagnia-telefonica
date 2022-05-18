@@ -21,7 +21,7 @@ Spring Boot: crea un'API CRUD utilizzando PostgreSQL e PgAdmin con Lombok, Sprin
 -	SLF4J for Logback.
 
 ## :fast_forward: AWS
-Il JAR dell'applicazione è hostato su un'istanza di EC2 (Linux), mentre il Database è pubblicato su un'istanza di RDS
+Il JAR dell'applicazione è hostato su un'istanza di <b>EC2</b> (Linux), mentre il Database è pubblicato su un'istanza di <b>RDS</b>
 - Endpoint:
 
 ## :fast_forward: Modello E/R
