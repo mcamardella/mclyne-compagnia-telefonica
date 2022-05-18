@@ -22,7 +22,11 @@ Spring Boot: crea un'API CRUD utilizzando PostgreSQL e PgAdmin con Lombok, Sprin
 
 ## :fast_forward: AWS
 Il JAR dell'applicazione è hostato su un'istanza di <b>EC2</b> (Linux), mentre il Database è pubblicato su un'istanza di <b>RDS</b>
-- Endpoint: http://54.167.83.14:8090/ + URI
+- Endpoint: http://54.167.83.14:80900/api/v1 + URI
+#### API CRUD che restituisce tutti i clienti presenti nel database.　
+```
+http://54.167.83.14:8090/api/v1/client/all
+```
 
 ## :fast_forward: Modello E/R
 •	Nella radice del repository è presente il file `Diagrams-DB-ER.png` che mostra la stuttura del database.
