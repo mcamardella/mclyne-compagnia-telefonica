@@ -1,5 +1,5 @@
 # mclyne :o:
-Implementazione di una Spring Boot Application che permette di gestire un operatore di telefonia fissa e mobile.
+Implementazione di una Spring Boot Application che permette di gestire una compagnia di telefonia fissa e mobile.
 L'applicazione implemeterà le seguenti funzionalità:
 - API REST per la gestione del cliente;
 - API REST di attivazione, sospensione e cessazione della linea fissa o mobile;
